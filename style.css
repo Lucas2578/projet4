@@ -7,6 +7,24 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.bloc_title {
+    width: 70%;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.citation {
+    margin: auto;
+    width: 70%;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.citation-author {
+    font-weight: 400;
+    color: gray;
+}
+
 .icon_bloc-2 {
     font-size: 60px;
     color: #364577;
