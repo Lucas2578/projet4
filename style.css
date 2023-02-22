@@ -7,6 +7,24 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.icon_bloc-2 {
+    font-size: 60px;
+    color: #364577;
+    margin-top: 24px;
+    margin-bottom: 14px;
+}
+
+.icon_social {
+    color: rgba(255, 255, 255, .6);
+    font-size: 30px;
+    transition: color .2s ease-out;
+}
+
+.icon_social:hover {
+    color: rgba(255, 255, 255);
+    transform: color ease-out .2s;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
