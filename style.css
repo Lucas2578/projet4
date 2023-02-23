@@ -7,6 +7,14 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+ul {
+    list-style-type: none;
+}
+
+.logo-img {
+    width: 70%;
+}
+
 .bloc_title {
     width: 70%;
     margin: auto;
